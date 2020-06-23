@@ -1,3 +1,8 @@
+# The Journey to full autonomy
+
+This is a proposal, still in draft phases of the steps a team must take in order to reach full autonomy. Also which processes, metrics and improvements one should focus in order to ascend to the next phase.
+---
+
 # Shu - Tradition
 ## Phase 1 : Ground Control ( transparency )
 ### Way of Working (SCRUM / SCRUMFALL)
